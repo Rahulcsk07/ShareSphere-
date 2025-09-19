@@ -72,6 +72,9 @@ Our vision is to create a decentralized social sharing ecosystem where:
 - **Layer 2 Integration**: Implement scaling solutions for reduced gas costs
 - **Content Delivery Network**: Decentralized storage and delivery optimization
 - **Enterprise Features**: Business accounts and advanced content management tools
+##  contract address
+0xFD195CF47fFC6917c2cFeA7a846fF38A031404fb
+<img width="1920" height="1080" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/e585fd1c-c103-4120-aeff-a8626388ce54" />
 
 ### 🔮 **Long-term Vision**
 - **AI-Powered Discovery**: Machine learning algorithms for personalized content recommendation

@@ -20,12 +20,7 @@ contract ShareSphere {
         uint256 totalShares;
         bool isRegistered;
     }
-struct User {
-        address userAddress;
-        string username;
-        uint256 totalShares;
-        bool isRegistered;
-    }
+
     
     mapping(uint256 => Content) public contents;
     mapping(address => User) public users;

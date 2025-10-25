@@ -21,12 +21,7 @@ contract ShareSphere {
         uint256 totalShares;
         bool isRegistered;
     }
- struct User {
-        address userAddress;
-        string username;
-        uint256 totalShares;
-        bool isRegistered;
-    }
+ 
 struct User {
         address userAddress;
         string username;
